@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ディジタル・マジカル",
+  "base_artist": "夏山よつぎ",
+  "createdAt": "2026-03-27T09:54:15.693605Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディジタル・マジカル (feat. 重音テト)",
+      "artist": "夏山よつぎ",
+      "has_synced": false,
+      "path": "select/pl_01_ディジタル・マジカル_(feat._重音テト)_夏山よつぎ.txt"
+    }
+  ]
+}
